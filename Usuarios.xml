@@ -1,0 +1,1047 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<USUARIOS>
+	<USUARIO id="001">
+		<NOME>ALEXANDRE LEIZOR SZCZUPAK</NOME>
+		<IDADE>35</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>RIO DE JANEIRO</CIDADE>
+		<ESTADO>RIO DE JANEIRO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="002">	
+		<NOME>ANDERSON VINÍCIUS CORRÊA DE OLIVEIRA</NOME>
+		<IDADE>29</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>MANAUS</CIDADE>
+		<ESTADO>AMAZONAS</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="105">Hino da Bandeira</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="003">
+		<NOME>DÉBORA HELEN DE MELO BARROS</NOME>
+		<IDADE>20</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>RIO DE JANEIRO</CIDADE>
+		<ESTADO>RIO DE JANEIRO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="004">
+		<NOME>ALEX LIBÓRIO CARANHA</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>MANAUS</CIDADE>
+		<ESTADO>AMAZONAS</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="096">Disritmia</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="023">Inútil</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="064">As curvas da estrada de Santos</MUSICA>
+			<MUSICA id="112">Chegou a hora da fogueira</MUSICA>
+			<MUSICA id="047">Me chama</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+			<MUSICA id="089">A flor e o espinho</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="105">Hino da Bandeira</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+			<MUSICA id="046">Ponteio</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="038">Eu quero é botar meu bloco na rua</MUSICA>
+			<MUSICA id="093">Casa no campo</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+			<MUSICA id="041">Manhã de carnaval</MUSICA>
+			<MUSICA id="111">Coelhinho de olhos vermelhos</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="070">Ronda</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="098">A noite de meu bem</MUSICA>
+			<MUSICA id="031">Travessia</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="005">
+		<NOME>THIAGO BRITO BEZERRA</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>MANAUS</CIDADE>
+		<ESTADO>AMAZONAS</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="097">Você não Soube Me Amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="096">Disritmia</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="006">
+		<NOME>CLAUS DE CASTRO ARANHA</NOME>
+		<IDADE>31</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>SÃO LUIS</CIDADE>
+		<ESTADO>MARANHÃO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="064">As curvas da estrada de Santos</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="111">Coelhinho de olhos vermelhos</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="093">Casa no campo</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="007">
+		<NOME>ANA BEATRIZ DE LIMA GOMES</NOME>
+		<IDADE>20</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>RIO DE JANEIRO</CIDADE>
+		<ESTADO>RIO DE JANEIRO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="096">Disritmia</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="008">
+		<NOME>ANA FERNANDA QUARESMA B. SANTOS</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>RIO DE JANEIRO</CIDADE>
+		<ESTADO>RIO DE JANEIRO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="047">Me chama</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="112">Chegou a hora da fogueira</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+		</MUSICAS>
+	</USUARIO>	
+	<USUARIO id="009">
+		<NOME>FRANCISCO CARLOS RIBEIRO JUNIOR</NOME>
+		<IDADE>24</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>FORTALEZA</CIDADE>
+		<ESTADO>CEARA</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="046">Ponteio</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="075">Foi Um Rio que Passou em Minha Vida</MUSICA>
+			<MUSICA id="111">Coelhinho de olhos vermelhos</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="010">
+		<NOME>FELIPE MOREIRA LOPES RIBEIRO</NOME>
+		<IDADE>24</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>RIO DE JANEIRO</CIDADE>
+		<ESTADO>RIO DE JANEIRO</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="105">Hino da Bandeira</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="011">
+		<NOME>ANDREAS ELLHAUTHALER</NOME>
+		<IDADE>28</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>SALZBURG</CIDADE>
+		<ESTADO>SALZBURG</ESTADO>
+		<PAIS>ÁUSTRIA</PAIS>
+		<MUSICAS>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="012">
+		<NOME>RENAM CASTRO DA SILVA</NOME>
+		<IDADE>23</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="013">
+		<NOME>FERNANDO CHIERCHIE</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="047">Me chama</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="014">
+		<NOME>FABIANO CASTOLDI</NOME>
+		<IDADE>29</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>Ijuí</CIDADE>
+		<ESTADO>Rio Grande do Sul</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="015">
+		<NOME>WALLACE ALVES MARTINS</NOME>
+		<IDADE>28</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO>Rio de Janeiro</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="016">
+		<NOME>CAMILA MARIA GABRIEL GUSSEN</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="017">
+		<NOME>NATALIA SOARES FAGUNDES DA ROSA</NOME>
+		<IDADE>23</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="018">
+		<NOME>GABRIEL MATOS ARAUJO</NOME>
+		<IDADE>28</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="047">Me chama</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="105">Hino da Bandeira</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="019">
+		<NOME>LUIZ EDUARDO BALABRAM FILHO</NOME>
+		<IDADE>24</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>Vila Velha</CIDADE>
+		<ESTADO>Espírito Santo</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="020">
+		<NOME>RENAN MARIANO ALMEIDA</NOME>
+		<IDADE>24</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="074">Sentado à beira do caminho</MUSICA>
+			<MUSICA id="023">Inútil</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>			
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="021">
+		<NOME>ISABELA FERRAO APOLINÁRIO</NOME>
+		<IDADE>21</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="022">
+		<NOME>CARLOS ALEXANDRE ROSSI</NOME>
+		<IDADE>20</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="023">
+		<NOME>JOSE ANTONIO APOLINARIO JUNIOR</NOME>
+		<IDADE>51</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="046">Ponteio</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="064">As curvas da estrada de Santos</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="031">Travessia</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="024">
+		<NOME>CARLOS VINÍCIUS CALDAS CAMPOS</NOME>
+		<IDADE>24</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="023">Inútil</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="025">
+		<NOME>FELIPE DA SILVA FRANÇA</NOME>
+		<IDADE>21</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="068">Comida</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="026">
+		<NOME>HENRIQUE LOPES FELIX SOARES</NOME>
+		<IDADE>21</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="089">A flor e o espinho</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="031">Travessia</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="027">
+		<NOME>ALLAN FREITAS DA SILVA</NOME>
+		<IDADE>20</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="028">
+		<NOME>CAMILA SIMÕES DA COSTA CUNHA VASCONCELLOS</NOME>
+		<IDADE>21</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="029">
+		<NOME>RAFAEL BERNARDES RIBAS GENTILE</NOME>
+		<IDADE>25</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="105">Hino da Bandeira</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="030">
+		<NOME>TADEU FERREIRA</NOME>
+		<IDADE>33</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="023">Inútil</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="063">Alagados</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="031">
+		<NOME>GRACIELLE HELLENE DE AMORIM AUGUSTO</NOME>
+		<IDADE>22</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="032">
+		<NOME>BRUNO SARAIVA DA SILVA</NOME>
+		<IDADE>21</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE/>
+		<ESTADO/>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="033">
+		<NOME>ANA LUISA DUBOC</NOME>
+		<IDADE>29</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>RJ</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="031">Travessia</MUSICA>
+			<MUSICA id="038">Eu quero é botar meu bloco na rua</MUSICA>
+			<MUSICA id="057">Conversa de botequim</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="087">Meu mundo e nada mais</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="034">
+		<NOME>MICHELLE NOGUEIRA</NOME>
+		<IDADE>35</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>Rio de Janeiro</CIDADE>
+		<ESTADO>Rio de Janeiro</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="085">O barquinho</MUSICA>
+			<MUSICA id="003">Carinhoso</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="089">A flor e o espinho</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="015">Trem das onze</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="035">
+		<NOME>GABRIELLA DE SOUZA TRIGUEIRO</NOME>
+		<IDADE>18</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>NOVA IGUAÇU</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="036">
+		<NOME>LUIZ EDUARDO ALTOÉ LIRIO</NOME>
+		<IDADE>26</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>VILA VELHA</CIDADE>
+		<ESTADO>ES</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="037">
+		<NOME>VINICIOS SOUZA GUILHERME</NOME>
+		<IDADE>23</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>NOVA IGUAÇU</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="038">
+		<NOME>CLAUDIO PEREIRA</NOME>
+		<IDADE>28</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>RJ</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="062">Luar do sertão</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="096">Disritmia</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="039">
+		<NOME>GUSTAVO CARVALHO</NOME>
+		<IDADE>29</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>RJ</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="108">Feliz ano novo</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="103">Escravos de jó</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="081">Que país é este?</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="040">
+		<NOME>TALIA MORENA VAZ GALANTE</NOME>
+		<IDADE>27</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>RJ</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="004">Asa Branca</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="107">Ilariê</MUSICA>
+			<MUSICA id="097">Você não Soube me amar</MUSICA>
+			<MUSICA id="100">Anna Júlia</MUSICA>
+			<MUSICA id="020">Preta pretinha</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="109">Mamãe eu quero</MUSICA>
+			<MUSICA id="102">Ciranda cirandinha</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="041">
+		<NOME>RUBENS VINICIUS PALHETA DA ROCHA</NOME>
+		<IDADE>23</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>MESQUITA</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+			<MUSICA id="038">Eu quero é botar meu bloco na rua</MUSICA>
+			<MUSICA id="047">Me chama</MUSICA>
+			<MUSICA id="089">A flor e o espinho</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="042">
+		<NOME>DIANA SOLOMON</NOME>
+		<IDADE>26</IDADE>
+		<SEXO>FEMININO</SEXO>
+		<CONHECIMENTO_MUSICAL>SIM</CONHECIMENTO_MUSICAL>
+		<CIDADE>CHICAGO</CIDADE>
+		<ESTADO>ILLINOIS</ESTADO>
+		<PAIS>ESTADOS UNIDOS</PAIS>
+		<MUSICAS>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="025">País tropical</MUSICA>
+			<MUSICA id="024">Eu sei que vou te amar</MUSICA>
+			<MUSICA id="028">Pra não dizer que não falei das flores</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="019">Quero que vá tudo pro inferno</MUSICA>
+			<MUSICA id="067">A banda</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="104">Hino Nacional</MUSICA>
+			<MUSICA id="006">Chega de Saudade</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+	<USUARIO id="043">
+		<NOME>FLÁVIO ÁVILA</NOME>
+		<IDADE>30</IDADE>
+		<SEXO>MASCULINO</SEXO>
+		<CONHECIMENTO_MUSICAL>NÃO</CONHECIMENTO_MUSICAL>
+		<CIDADE>DUAS BARRAS</CIDADE>
+		<ESTADO>RJ</ESTADO>
+		<PAIS>BRASIL</PAIS>
+		<MUSICAS>
+				<MUSICA id="010">Alegria, Alegria</MUSICA>
+			<MUSICA id="091">Felicidade</MUSICA>
+			<MUSICA id="002">Águas de Março</MUSICA>
+			<MUSICA id="027">Garota de ipanema</MUSICA>
+			<MUSICA id="083">Ideologia</MUSICA>
+			<MUSICA id="008">Detalhes</MUSICA>
+			<MUSICA id="012">Aquarela do BRASIL</MUSICA>
+			<MUSICA id="101">Parabéns a você</MUSICA>
+			<MUSICA id="072">Gita</MUSICA>
+			<MUSICA id="031">Travessia</MUSICA>
+		</MUSICAS>
+	</USUARIO>
+</USUARIOS>
